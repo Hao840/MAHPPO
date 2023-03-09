@@ -70,6 +70,16 @@ python train_agent.py
 
 
 
-## Citation
+## Reference
 
-Coming soon.
+If you find our code useful for your research, please cite our paper.
+
+```
+@article{hao2022multi,
+  title={Multi-agent collaborative inference via dnn decoupling: Intermediate feature compression and edge learning},
+  author={Hao, Zhiwei and Xu, Guanyu and Luo, Yong and Hu, Han and An, Jianping and Mao, Shiwen},
+  journal={IEEE Transactions on Mobile Computing},
+  year={2022},
+  publisher={IEEE}
+}
+```
